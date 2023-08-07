@@ -1,4 +1,8 @@
 # BirithDay-Counter-SimpleWay
+# The Main goal is to Understand The Logic How it is working.
+# Open project code one side and this readme another side to better understand what I'm trying to say.
+Check out Demo: https://simplifiedweb.github.io/BirithDay-Counter-SimpleWay/
+
 I develope a simple birthday counter. 
 Ok let's first discuss the Time duration calculation
 
